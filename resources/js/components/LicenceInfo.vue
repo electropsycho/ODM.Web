@@ -1,19 +1,18 @@
 <!--
   - ODM.Web  https://github.com/electropsycho/ODM.Web
-  - Copyright (C) 2020 Hakan GÜLEN
+  - Copyright 2019-2020 Hakan GÜLEN
   -
-  - This program is free software: you can redistribute it and/or modify
-  - it under the terms of the GNU General Public License as published by
-  - the Free Software Foundation, either version 3 of the License, or
-  - (at your option) any later version.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
   -
-  - This program is distributed in the hope that it will be useful,
-  - but WITHOUT ANY WARRANTY; without even the implied warranty of
-  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  - GNU General Public License for more details.
+  - http://www.apache.org/licenses/LICENSE-2.0
   -
-  - You should have received a copy of the GNU General Public License
-  - along with this program.  If not, see http://www.gnu.org/licenses/
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
   -->
 
 <template>
@@ -21,17 +20,17 @@
     <div class="card-body">
       <a
         rel="license"
-        href="https://www.gnu.org/licenses/gpl-3.0.tr.html"
+        href="https://www.apache.org/licenses/LICENSE-2.0"
       >
         <img
-          alt="GPLv3"
+          alt="Apache Software License"
           style="border-width:0; height:1.25em"
-          src="https://www.gnu.org/graphics/gplv3-with-text-84x42.png"
+          src="https://www.apache.org/foundation/press/kit/feather.png"
         >
       </a> Bu eser özgür ve açık kaynak kod yazılım lisanslarıdan olan <a
         rel="license"
-        href="https://www.gnu.org/licenses/gpl-3.0.tr.html"
-      >GPLv3</a> ile lisanslanmıştır.
+        href="https://www.apache.org/licenses/LICENSE-2.0"
+      >Apache Lisansı v2.0</a> ile lisanslanmıştır.
       <a
         class="btn btn-block btn-secondary"
         href="https://github.com/electropsycho/ODM.Web"

@@ -362,9 +362,11 @@
                                                             <td class="user-msg" style="text-align: justify">
                                                                 Otomasyon sistemimiz üzerinden tarafınıza değerlendirilmek üzere {{$branch->name}}
                                                                 branşından/alanından bir adet soru gönderilmiştir. Mümkün olan en kısa zamanda değerlendirmenizi
-                                                                yapmanızı ve ayrıca değerlendirme sisteminde ortalama puan 1 - 2.5 arasında olursa sorunun kullanılamaz olacağını,
-                                                                2.5 - 3.5 arasında olursa soru yazarına düzeltme için geri gönderileceğini (düzeltilmesini isteğimiz yeri açıklayıcı biçimde yazmayı unutmayalım)
-                                                                ve sorunun tekrar değerlendirileceğini, 3.5 - 5 puan olursa soru havuzuna gireceğini belirtmek isteriz.
+                                                                yapmanızı rica ederiz.
+                                                                <br>
+                                                                NOT: Değerlendirme sisteminde ortalama puan 1 - 2.5 arasında olursa sorunun kullanılamaz olacağını,
+                                                                2.5 - 3.5 arasında olursa soru yazarına düzeltme için geri gönderileceğini (düzeltilmesini isteğimiz yeri açıklayıcı biçimde yazmayı unutmayalım) ve sorunun tekrar değerlendirileceğini,
+                                                                3.5 - 5 puan olursa sınavlarda kullanılmak üzere soru havuzuna gireceğini belirtmek isteriz.
                                                                 Sizlerden ricamız bu bilgileri göz önünde bulundurarak dikkatli bir şekilde değerlendirme yapmanızdır.
                                                                 <br>
                                                                 Verdiğiniz ve vereceğiniz katkılar için ise ayrıca teşekkür ederiz.

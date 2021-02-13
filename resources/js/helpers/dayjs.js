@@ -1,4 +1,3 @@
-<?php
 /*
  * ODM.Web  https://github.com/electropsycho/ODM.Web
  * Copyright 2019-2020 Hakan GÜLEN
@@ -16,20 +15,11 @@
  * limitations under the License.
  */
 
-namespace App\Models;
+import dayjs from 'dayjs'
+import formatLocalized from 'dayjs/plugin/localizedFormat'
+import 'dayjs/locale/tr'
 
-use Illuminate\Database\Eloquent\Model;
+dayjs.extend(formatLocalized)
+dayjs.locale('tr')
 
-/**
- * Sınavın hangi amaçla yapıldığını tutan model
- * Class ExamPurpose
- * @package App\Models
- */
-class ExamPurpose extends Model
-{
-    protected $fillable = [
-        'id',
-        'purpose',
-        'code'
-    ];
-}
+export default dayjs
